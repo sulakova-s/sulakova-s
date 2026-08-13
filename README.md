@@ -1,30 +1,31 @@
-# Привет! Я Сентябрина 👋
+[🇷🇺 Русский](./README_RU.md) | [🇬🇧 English](./README.md)
 
-## 🛠️ 1С-разработчик, осваиваю фронтенд
+# Hi! I'm Sentyabrina 👋
 
-3 года работаю с бизнес-логикой, запросами и базами данных в 1С.  
-Интересуюсь веб-разработкой, активно изучаю React, REST API.
+## 🛠️ 1C Developer, learning Frontend
 
-## ⚡ Мой стек
+3 years of experience with business logic, queries, and databases in 1C.  
+Interested in web development, actively learning React, REST API.
+
+## ⚡ My Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
+## 📌 Pet Projects
 
-## 📌 Пет-проекты
+- **Portfolio** — adaptive landing page with language switching.  
+  Stack: React, i18n, CSS.  
+  [Repository](https://github.com/sulakova-s/personal-website)  
 
-- **Портфолио** — адаптивная страница-визитка с переключением языка.  
-  Стек: React, i18n, CSS.  
-  [Репозиторий](https://github.com/sulakova-s/personal-website)  
+- **D&D Character Generator** — character generator with D&D API integration.  
+  Stack: React, TypeScript, REST API.  
+  [Repository](https://github.com/sulakova-dev/dnd-character-generator) | [Demo](https://dnd-character-generator-gules.vercel.app)
 
-- **D&D Character Generator** — генератор персонажа с интеграцией D&D API.  
-  Стек: React, TypeScript, REST API.  
-  [Репозиторий](https://github.com/sulakova-dev/dnd-character-generator) | [Демо](https://dnd-character-generator-gules.vercel.app)
+## 📊 Stats
 
-## 📊 Статистика
-
-![Codewars Stats](https://www.codewars.com/users/sulakova-s/badges/large)
+![Codewars](https://github.r2v.ch/codewars?user=sulakova-s)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sulakova-s?theme=light&border=0&radius=4)
