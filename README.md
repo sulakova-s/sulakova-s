@@ -25,6 +25,6 @@
 
 ## 📊 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulakova-s&show_icons=true&theme=radical)
+![Codewars Stats](https://www.codewars.com/users/sulakova-s/badges/large)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sulakova-s?theme=light&border=0&radius=4)
