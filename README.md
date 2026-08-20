@@ -4,7 +4,7 @@
 
 ## 🛠️ 1C Developer, learning Frontend
 
-3 years of experience with business logic, queries, and databases in 1C.  
+4 years of experience with business logic, queries, and databases in 1C.  
 Interested in web development, actively learning React, REST API.
 
 ## ⚡ My Stack
