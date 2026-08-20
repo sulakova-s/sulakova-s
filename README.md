@@ -12,15 +12,9 @@ Interested in web development, actively learning React, REST API.
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
 
 
-## 📌 Pet Projects
+## Portfolio  
+🌐 [personal-website](https://personal-website-ten-inky-61.vercel.app/)
 
-- **Portfolio** — adaptive landing page with language switching.  
-  Stack: React, i18n, CSS.  
-  [Repository](https://github.com/sulakova-s/personal-website)  
-
-- **D&D Character Generator** — character generator with D&D API integration.  
-  Stack: React, TypeScript, REST API.  
-  [Repository](https://github.com/sulakova-dev/dnd-character-generator) | [Demo](https://dnd-character-generator-gules.vercel.app)
 
 ## 📊 Stats
 
