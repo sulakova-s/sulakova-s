@@ -11,15 +11,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react) 
 
-## 📌 Пет-проекты
 
-- **Портфолио** — адаптивная страница-визитка с переключением языка.  
-  Стек: React, i18n, CSS.  
-  [Репозиторий](https://github.com/sulakova-s/personal-website)  
+## Портфолио  
+🌐 [personal-website](https://personal-website-ten-inky-61.vercel.app/)
 
-- **D&D Character Generator** — генератор персонажа с интеграцией D&D API.  
-  Стек: React, TypeScript, REST API.  
-  [Репозиторий](https://github.com/sulakova-dev/dnd-character-generator) | [Демо](https://dnd-character-generator-gules.vercel.app)
 
 ## 📊 Статистика
 
